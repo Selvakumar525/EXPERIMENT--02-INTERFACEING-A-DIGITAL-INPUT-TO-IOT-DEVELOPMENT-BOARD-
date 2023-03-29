@@ -159,9 +159,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output  :
  BEFORE DETECTION OF AN OBJECT:![image](https://user-images.githubusercontent.com/120643262/228576369-dcbeda6e-742d-4b9f-ad68-e9d8241fa670.png)
-~~~
+
 AFTER DETECTION OF AN OBJECT:![image](https://user-images.githubusercontent.com/120643262/228578106-c3cf85d3-a6e6-450b-8b16-fc90a27be076.png)
-~~~
+
 
  
  
